@@ -1,8 +1,8 @@
 # Fingerprints of Quality (FPQ) - Anomaly Detection for Additive Manufacturing
 
-![FPQ Logo](logo.jpg) 
-
 Welcome to the public repository for the **Fingerprints of Quality (FPQ)** project—an innovative application focused on anomaly detection for additive manufacturing processes. This repository hosts the codebase, resources, and information related to the FPQ project.
+
+![FPQ Logo](logo.jpg) 
 
 ## About the Project
 
