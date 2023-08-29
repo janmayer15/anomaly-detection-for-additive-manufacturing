@@ -20,25 +20,25 @@ We are excited to announce that the results and findings of the FPQ project were
 
 Watch our short film that provides an overview of the Fingerprints of Quality (FPQ) project:
 
-[![FPQ Short Film](film_thumbnail.png)](https://www.youtube.com/watch?v=WUcvvYLxRxw&ab_channel=FachgebietQualit%C3%A4tswissenschaft%28TUBerlin%29) 
+[![FPQ Short Film]](https://www.youtube.com/watch?v=WUcvvYLxRxw&ab_channel=FachgebietQualit%C3%A4tswissenschaft%28TUBerlin%29) 
 
 ## Repository Contents
 
 This repository contains:
 
 - **Source Code:** The implementation of the anomaly detection algorithms and related functionalities developed as part of the FPQ project.
-- other upcoming 
+- other content may upcoming 
 
 ## Getting Involved
 
-We welcome contributions from the open-source and research communities. Whether you're interested in improving the codebase, adding new features, or enhancing documentation, your contributions are valuable. Please review our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from the open-source and research communities. Whether you're interested in improving the codebase, adding new features, or enhancing documentation, your contributions are valuable. 
 
 ## Contact Information
 
 For inquiries related to the FPQ project, you can reach out to:
 
-- **Project Lead:** [Jan Mayer]
-- **Email:** [forschung@qw.tu-berlin.de]
+- **Project Lead:** Jan Mayer
+- **Email:** forschung@qw.tu-berlin.de
 
 Thank you for your interest in the Fingerprints of Quality (FPQ) project. We believe that our efforts will contribute to advancing the field of additive manufacturing and quality control. Your support and collaboration are greatly appreciated.
 
