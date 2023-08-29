@@ -20,7 +20,7 @@ We are excited to announce that the results and findings of the FPQ project were
 
 Watch our short film that provides an overview of the Fingerprints of Quality (FPQ) project:
 
-[FPQ Short Film](https://www.youtube.com/watch?v=WUcvvYLxRxw&ab_channel=FachgebietQualit%C3%A4tswissenschaft%28TUBerlin%29) 
+[[FPQ Short Film]](https://www.youtube.com/watch?v=WUcvvYLxRxw&ab_channel=FachgebietQualit%C3%A4tswissenschaft%28TUBerlin%29) 
 
 ## Repository Contents
 
