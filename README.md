@@ -15,6 +15,8 @@ This project has been generously funded by the **Bundesministerium für Wirtscha
 ## Paper Presentation
 
 We are excited to announce that the results and findings of the FPQ project were presented at the **17th CIRP Conference on Intelligent Computation in Manufacturing Engineering**. The paper delves into the technical details of the anomaly detection techniques employed in FPQ and provide insights into their real-world applications within additive manufacturing. The conference paper will be linked here once it becomes available.
+The paper itself can be found here in this repo or here: [[FPQ Research Paper]](https://www.sciencedirect.com/science/article/pii/S2212827124008503)
+
 
 ## Short Film
 
